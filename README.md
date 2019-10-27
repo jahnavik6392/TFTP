@@ -5,7 +5,9 @@ Getting started:
 4. Fire the get and put TFTP commands from the command line. eg: 
 
 >tftp -i 127.0.0.1 put C:\Go\src\archive\tar\common.go
-Transfer successful: 24295 bytes in 1 second(s), 24295 bytes/s
+
+o/p: Transfer successful: 24295 bytes in 1 second(s), 24295 bytes/s
 
 >tftp -i 127.0.0.1 get common.go
-Transfer successful: 24295 bytes in 1 second(s), 24295 bytes/s
+
+o/p: Transfer successful: 24295 bytes in 1 second(s), 24295 bytes/s
