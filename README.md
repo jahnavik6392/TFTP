@@ -1,3 +1,4 @@
+TFTP Server solution( Implementation of : https://tools.ietf.org/html/rfc1350 )
 Getting started:
 1. Enable TFTP on windows/Linux.
 2. Build the project using go build.
